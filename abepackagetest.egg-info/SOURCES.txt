@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+abepackagetest/__init__.py
+abepackagetest.egg-info/PKG-INFO
+abepackagetest.egg-info/SOURCES.txt
+abepackagetest.egg-info/dependency_links.txt
+abepackagetest.egg-info/top_level.txt
